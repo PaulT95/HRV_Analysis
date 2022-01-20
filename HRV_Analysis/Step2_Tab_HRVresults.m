@@ -1,7 +1,7 @@
 clear
 clc
 
-load minutes.mat % mi raccomando che se diventano 6 minuti bisogna aggiornare questa variabile
+load minutes.mat % if minutes changes you need to update this variables
 load parms_name.mat
 
 %% import file txt
