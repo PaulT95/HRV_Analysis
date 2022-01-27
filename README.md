@@ -6,5 +6,5 @@ Basically this software works in two steps:
      In addition other calculations are made like BaroRecepector Gain
      This is performed every 60sec
      In the end it saves in a mat file with the parameters for each minute of each txt imported
-  2) Simply here you import all the mat file created before and it put all the data in a single Excel file, 
+  2) Simply here you import all the mat file created before and it puts all the data in a single Excel file, 
      with multiple sheets, each one for each parameters returnered by the HRV analysis
