@@ -1,6 +1,6 @@
 # HRV_Analysis
 Here is sample script to import Data from txt collected using Porta Press. 
-Basically this software works in two steps:
+Basically this script works in two steps (according to what they requested to me) :
   1) Import data and cut automatically between two maker in the txt (Part of interest of the data in this case),
      Perform HRV analysis using an open-source library validated and developed by Marcus Vollmer (https://marcusvollmer.github.io/HRV/)
      In addition other calculations are made like BaroRecepector Gain
