@@ -1,7 +1,7 @@
 clear
 clc
 
-load minutes.mat % if minutes changes you need to update this variables
+load minutes.mat % if minutes mat changes you need to update this variable(s)
 load parms_name.mat
 
 %% import file txt
